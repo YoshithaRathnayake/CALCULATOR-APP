@@ -6,7 +6,7 @@
 
 > I made this using <b><i>[Tkinter](https://docs.python.org/3/library/tkinter.html)</i></b>
 
-# <div align="center"><img src="Images/Calculator.jpg" width="300px"></div>
+# <div align="center"><img src="images/Calculator.jpg" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
@@ -32,7 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><img src="Images/Yoshitha Rathnayake 2.png" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/acf-sack/sack-site/commits?author=Yoshitha-SACK" title="Code">💻</a></td>
+    <td align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><img src="images/Yoshitha Rathnayake 2.png" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/acf-sack/sack-site/commits?author=Yoshitha-SACK" title="Code">💻</a></td>
   </tr>
 </table>
 
