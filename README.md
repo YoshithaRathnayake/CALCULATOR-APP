@@ -18,8 +18,8 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Calculator_App.ht
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/Calculator-App.git
-    cd Calculator-App
+    git clone https://github.com/USERNAME/CALCULATOR-APP.git
+    cd CALCULATOR-APP
     ```
      
 #
