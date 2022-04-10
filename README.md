@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.github.io/CALCULATOR-APP"><b><i>WELCOME!, TO MY CALCULATOR APP</i></b></a></div> 
+# <div align="center"><a href="https://github.com/YoshithaRathnayake/CALCULATOR-APP"><b><i>WELCOME!, TO MY CALCULATOR APP</i></b></a></div> 
 
 > This is the Calculator that I made using <b><i>[Python Programming Language](https://www.w3schools.com/python/)</i></b>
 
@@ -14,7 +14,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.github.io/CALCULATOR-APP](https://yoshitharathnayake.github.io/CALCULATOR-APP)</i></b>
+Available at :  <b><i>[https://github.com/YoshithaRathnayake/CALCULATOR-APP](https://github.com/YoshithaRathnayake/CALCULATOR-APP)</i></b>
 
 #
 # Run Locally
